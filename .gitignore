@@ -1,2 +1,5 @@
+.idea
+.claude
+logs
 out/
 *.class

@@ -24,6 +24,7 @@ public class Armstrong {
             n = n/10;
         }
 
+
         //Step 4 : Compare
         if(sum == original){
             System.out.println(original + " is a Armstrong Number");
